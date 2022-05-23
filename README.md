@@ -8,7 +8,7 @@ pip install cv2
 pip install cvzone
 ```
 
-## Videos
+## videos
 This folder contains 6 videos with different outcomes of ping-pong ball going into the box or not.
 
 ## ballimage.jpeg
